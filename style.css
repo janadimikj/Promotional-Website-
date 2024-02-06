@@ -1,0 +1,40 @@
+body {
+	background-color: #ebcbd8;
+	align-items: center;
+}
+
+h1 {
+	color: white;
+	text-align: center;
+	font-family: 'Questrial', sans-serif;;
+	border-bottom: dotted;
+	border-width: 5px;
+	padding-top: 20px;
+	letter-spacing: 5px;
+	line-height: 2;
+	font-size: 64px;
+}
+
+p {
+color: white;
+text-align: center;
+font-family: font-family: 'Questrial', sans-serif;
+font-style: italic;
+font-size: 20px;
+}
+
+.thediv {
+align-items: center;
+}
+
+h2 {
+	color: white;
+	text-align: center;
+	font-fticketamily: 'Questrial', sans-serif;
+	border-top: dotted;
+	border-width: 5px;
+	letter-spacing: 5px;
+	line-height: 2;
+	font-size: 40px;
+}
+
